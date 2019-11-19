@@ -595,7 +595,6 @@ LOCAL_CFLAGS += \
     -DDTSHD_PARSER_ENABLED
 
 LOCAL_SHARED_LIBRARIES := \
-    libaudioparsers \
     libaudioroute \
     libaudioutils \
     libcutils \
